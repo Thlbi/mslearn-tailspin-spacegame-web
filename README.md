@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nubo-dx/Space%20Game%20-%20web%20-%20Workflow%20-%20Thibaud/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/nubo-dx/Space%20Game%20-%20web%20-%20Workflow%20-%20Thibaud/_build/latest?definitionId=19&branchName=main)
 
 # Contributing
 
